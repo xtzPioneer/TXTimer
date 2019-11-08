@@ -1,0 +1,6 @@
+framework module TXTimer {
+  umbrella header "TXTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
